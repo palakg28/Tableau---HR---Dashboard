@@ -41,17 +41,17 @@ Modern HR teams face challenges in understanding workforce dynamics:
 ## 🎨 Mockups  
 Wireframed in **Draw.io** before implementation:  
 
-![Mockups](/mockups/Mockups-draw.io.png)  
+![Mockups](./mockups/Mockup-draw.io.png)  
 
 ---
 
 ## 📈 Dashboards  
 
 ### 🔹 Summary Dashboard  
-![Summary Dashboard](/mockups/Overview Dashboard.png)  
+![Summary Dashboard](./mockups/Overview%20Dashboard.png)  
 
 ### 🔹 Detail Dashboard  
-![Detail Dashboard](/mockups/Details Dashboards.png)  
+![Detail Dashboard](./mockups/Details%20Dashboards.png) 
 
 👉 [**View Live Interactive Dashboard on Tableau Public**](https://public.tableau.com/views/HROverviewDashboard_17562573699270/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
