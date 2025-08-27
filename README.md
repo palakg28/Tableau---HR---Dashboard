@@ -58,7 +58,7 @@ Wireframed in **Draw.io** before implementation:
 ---
 
 ## 🔑 Key Insights  
-From the HR dashboards, decision-makers can uncover insights such as:  
+From the HR dashboards, decision-makers uncovered insights such as:  
 1. **Hiring vs Termination Trends** — Monitor retention health.  
 2. **Education & Performance** — Identify how higher education correlates with stronger performance.  
 3. **Demographics Breakdown** — Understand workforce gender balance and age groups.  
