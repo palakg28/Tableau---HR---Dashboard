@@ -1,4 +1,4 @@
-# 📊 TalentPulse: HR Analytics Dashboard  
+# 📊 Tableau: HR Analytics Dashboard  
 
 End-to-End HR Data Analytics Solution — from planning to insights.  
 
